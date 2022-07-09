@@ -10,4 +10,4 @@ My skills are C++, C, Java, Python, JavaScript / Typescript: React, Node.js, SQL
 
 I mainly use VS Code.
 
-:link:
+<!-- :link: -->
