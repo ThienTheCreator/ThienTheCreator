@@ -1,6 +1,6 @@
 # My name is Thien. :gear: 
 
-I do not know what to say. I just write code. :pencil:
+Trying to learn vim motions. I just write code. :pencil:
 
 :hammer_and_wrench:
 
