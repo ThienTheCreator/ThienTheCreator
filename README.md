@@ -1,4 +1,4 @@
-# My name is Thien. :gear: 
+# My name is Thien. :gear: :cityscape: :foggy: :night_with_stars:
 
 Trying to learn vim motions. I just write code. :pencil:
 
